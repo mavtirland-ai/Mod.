@@ -61,14 +61,6 @@ Paylaşırken şunları herkese açık şekilde yayınlamayın:
 * Admin anahtarı
 * Cloudflare secret değerleri
 
-## Hafıza Sistemi
-
-Hafıza aday sistemi varsayılan olarak kapalıdır.
-Bu sistem yalnızca izinli kullanıcılar için görünür ve çalışır.
-
-Aday bilgiler doğrudan yapay zekâ hafızasına eklenmez.
-Önce admin panelinde onaylanması gerekir.
-
 ## Sürüm
 
 Mevcut sürüm:
